@@ -1,7 +1,3 @@
-1. Access Coinbase API.
-2. Install:
-tweepy
-s3fs
 
 ## Installation
 Please make sure your virtual environment is configured with Python 3.9 or later.
